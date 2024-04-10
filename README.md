@@ -2,8 +2,8 @@
 
 I has been interested in technical issues since childhood. I learned electronics and the basics of programming on my own. Later, I attended a technical school majoring in mechatronics, where I obtained the title of Mechatronics Technician. During my studies, I took courses in conventional and CNC machining as well as a soldering course. I started learning 3D design and purchased an FDM 3D printer. I also learned about other technologies. Currently, I am a 3rd year student of Computer Science with specialization in Embedded and IoT.
 
-- 🔭 I’m currently working on :
-       - A blind controller communicating via ZigBee and powered by solar energy.
+- 🔭 I’m currently working on : \n
+       - A blind controller communicating via ZigBee and powered by solar energy. \n
        - Kinetic sculpture (Interactive via to the ToF sensor).
        - Port DOOM on lpc54628 NXP microcontroler.
 
