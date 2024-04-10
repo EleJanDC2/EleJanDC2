@@ -22,7 +22,15 @@ I has been interested in technical issues since childhood. I learned electronics
    
        - Kubernetes
 
-   
+- Technologies I know:
+
+       - C/C++
+       - Java (Java Spring, JavaFX)
+       - Python
+       - JavaScript (NodeJS, React, ReactNative)
+       - HTML, SCC
+       - Proxmox
+       - Postgresql 
 
 <!--
 **EleJanDC2/EleJanDC2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
